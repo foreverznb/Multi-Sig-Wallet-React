@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Multi-Sig-Wallet-React/static/css/main.073c9b0a.css",
+    "main.js": "/Multi-Sig-Wallet-React/static/js/main.36295dcf.js",
+    "static/js/787.8e742481.chunk.js": "/Multi-Sig-Wallet-React/static/js/787.8e742481.chunk.js",
+    "static/media/logo.svg": "/Multi-Sig-Wallet-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Multi-Sig-Wallet-React/index.html",
+    "main.073c9b0a.css.map": "/Multi-Sig-Wallet-React/static/css/main.073c9b0a.css.map",
+    "main.36295dcf.js.map": "/Multi-Sig-Wallet-React/static/js/main.36295dcf.js.map",
+    "787.8e742481.chunk.js.map": "/Multi-Sig-Wallet-React/static/js/787.8e742481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.36295dcf.js"
+  ]
+}
